@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28306.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testconsole", "testconsole\testconsole.csproj", "{D5FFF5B8-15F9-439E-9B87-A98B97E90AC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testconsole", "testconsole\testconsole.csproj", "{D5FFF5B8-15F9-439E-9B87-A98B97E90AC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testlib", "testlib\testlib.csproj", "{40FBAE7B-282B-4295-922E-2CE6C494F087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testlib", "testlib\testlib.csproj", "{40FBAE7B-282B-4295-922E-2CE6C494F087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILInsertTool", "ILInsertTool\ILInsertTool.csproj", "{7FEF3A80-0722-4643-9E14-EEC936EAFA89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ILInsertTool", "ILInsertTool\ILInsertTool.csproj", "{7FEF3A80-0722-4643-9E14-EEC936EAFA89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calctool", "calctool\calctool.csproj", "{4B9A7AD9-4EFE-4DB9-A7D6-E7CA4463AD51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calctool", "calctool\calctool.csproj", "{4B9A7AD9-4EFE-4DB9-A7D6-E7CA4463AD51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96071F7A-FBF7-4B74-B3BF-316891E33A64}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
